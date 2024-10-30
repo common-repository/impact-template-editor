@@ -1,0 +1,1294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Impact 1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-17 11:54-0500\n"
+"PO-Revision-Date: 2012-10-05 15:53+0530\n"
+"Last-Translator: amruta <amruta.mohod@hbwsl.com>\n"
+"Language-Team: The Impact Team <impact@impactpagebuilder.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/admin/impact-css-builder.php:3
+msgid "Custom CSS Builder"
+msgstr "Custom CSS Builder"
+
+#: lib/admin/impact-css-builder.php:6
+msgid "A CSS Building Tool"
+msgstr "Ein CSS-Gebäude-Tool"
+
+#: lib/admin/impact-css-builder.php:9
+msgid "The Custom CSS Builder is a great little tool that can be used as a simple reference or a full blown CSS coding factory."
+msgstr "Die Custom CSS Builder ist ein großartiges kleines Tool, das als einfache Referenz oder einem ausgewachsenen CSS Kodierung Fabrik verwendet werden kann."
+
+#: lib/admin/impact-css-builder.php:12
+msgid "Full Chunks vs Snippets"
+msgstr "Vollständige Chunks vs Snippets"
+
+#: lib/admin/impact-css-builder.php:15
+msgid ""
+"The \"Open/Close Elements\" tab provides the ability to output the opening and closing elements for most of the default\n"
+"\t\t\t\tclasses and IDs in Catalyst. With this you can build full CSS code chunks to then be pasted into the Custom CSS option box (or\n"
+"\t\t\t\tcustom.css file if using the Dynamik Child Theme)."
+msgstr "Der \"Open Close Elements \"-Reiter bietet die Möglichkeit, das Öffnen und Schließen Elemente für die meisten der Standard-Ausgabe tclasses und IDs in Catalyst. Mit diesem können Sie bauen volle CSS-Code Brocken, um dann in der Custom CSS Option Box eingefügt werden (oder tcustom.css Datei, wenn mit der Dynamik Child Theme)."
+
+#: lib/admin/impact-css-builder.php:21
+msgid ""
+"Sometimes you won't need the whole CSS chunk, but instead only need a snippet or two. In this case you can go to any\n"
+"\t\t\t\tof the tabs, select the styles you need and insert them into the Custom CSS textarea, ready for copy/paste. This is perfect for\n"
+"\t\t\t\teither adding to your Custom Stylesheet or the \"#Custom\" boxes scattered throughout the Dynamik Child Theme options (if active,\n"
+"\t\t\t\tof course)."
+msgstr "Manchmal brauchen Sie nicht die ganze CSS Brocken, sondern brauchen nur einen Ausschnitt oder zwei. In diesem Fall können Sie zu einem gehen der Registerkarten, wählen Sie die Stile, die Sie brauchen, und legen Sie sie in der Custom CSS textarea, bereit für copy / paste. Dies ist ideal für entweder das Hinzufügen Ihrer benutzerdefinierten Stylesheet oder dem # Custom Boxen in den Dynamik Child Theme Optionen verteilt (wenn aktiv,natürlich)."
+
+#: lib/admin/impact-css-builder.php:27
+msgid "#Custom CSS For Your Fonts"
+msgstr "# Custom CSS für Ihre Schriften"
+
+#: lib/admin/impact-css-builder.php:30
+msgid ""
+"You'll find that most of the font options have a #Custom button to the right. When clicked a textarea will slide down.\n"
+"\t\t\t\tHere you can add any font styling you like and it will be applied to that font type in the dynamik stylesheet. You will see that\n"
+"\t\t\t\tthe exact CSS ID/class that will be effected is shown at the top of each textarea. And don't forget that if you need any CSS\n"
+"\t\t\t\tassistance the Custom CSS Builder is only a mouse click away!"
+msgstr "Sie werden feststellen, dass die meisten der Schriftart-Optionen ein # Custom-Taste auf der rechten Seite haben. Wenn darauf geklickt ein textarea wird nach unten rutschen. die genaue CSS ID / Klasse, die erfolgen werden, wird auf der Oberseite jeder textarea gezeigt. Und vergessen Sie nicht, dass, wenn Sie irgendwelche CSS benötigen Unterstützung der Custom CSS Builder ist nur einen Mausklick entfernt!"
+
+#: lib/admin/impact-css-builder.php:67
+msgid "No-Repeat Image (Left)"
+msgstr "No-Repeat Bild (links)"
+
+#: lib/admin/impact-css-builder.php:68
+msgid "No-Repeat Image (Center)"
+msgstr "No-Bildwiederholung (Center)"
+
+#: lib/admin/impact-css-builder.php:69
+msgid "No-Repeat Image (Right)"
+msgstr "No-Repeat Bild (rechts)"
+
+#: lib/admin/impact-css-builder.php:70
+msgid "No-Repeat Image (Left Fixed)"
+msgstr "No-Repeat-Bild (links Fixed)"
+
+#: lib/admin/impact-css-builder.php:71
+msgid "No-Repeat Image (Center Fixed)"
+msgstr "No-Bildwiederholung (Center behoben)"
+
+#: lib/admin/impact-css-builder.php:72
+msgid "No-Repeat Image (Right Fixed)"
+msgstr "No-Repeat Bild (rechts fest)"
+
+#: lib/admin/impact-css-builder.php:73
+msgid "Horizontal-Repeat Image (Left)"
+msgstr "Horizontal-Repeat Bild (links)"
+
+#: lib/admin/impact-css-builder.php:74
+msgid "Horizontal-Repeat Image (Center)"
+msgstr "Horizontal-Bildwiederholung (Center)"
+
+#: lib/admin/impact-css-builder.php:75
+msgid "Horizontal-Repeat Image (Right)"
+msgstr "Horizontal-Repeat Bild (rechts)"
+
+#: lib/admin/impact-css-builder.php:76
+msgid "Horizontal-Repeat Image (Left Fixed)"
+msgstr "Horizontal-Repeat-Bild (links fixiert)"
+
+#: lib/admin/impact-css-builder.php:77
+msgid "Horizontal-Repeat Image (Center Fixed)"
+msgstr "Horizontal-Repeat-Bild (links fixiert)"
+
+#: lib/admin/impact-css-builder.php:78
+msgid "Horizontal-Repeat Image (Right Fixed)"
+msgstr "Horizontal-Repeat Bild (rechts fest)"
+
+#: lib/admin/impact-css-builder.php:79
+msgid "Vertical-Repeat Image (Left)"
+msgstr "Vertical-Repeat Bild (links)"
+
+#: lib/admin/impact-css-builder.php:80
+msgid "Vertical-Repeat Image (Center)"
+msgstr "Vertical-Repeat Bild (Center)"
+
+#: lib/admin/impact-css-builder.php:81
+msgid "Vertical-Repeat Image (Right)"
+msgstr "Vertical-Repeat Bild (rechts)"
+
+#: lib/admin/impact-css-builder.php:82
+msgid "Vertical-Repeat Image (Left Fixed)"
+msgstr "Vertical-Repeat-Bild (links Fixed)"
+
+#: lib/admin/impact-css-builder.php:83
+msgid "Vertical-Repeat Image (Center Fixed)"
+msgstr "Vertikal-Bildwiederholung (Center behoben)"
+
+#: lib/admin/impact-css-builder.php:84
+msgid "Vertical-Repeat Image (Right Fixed)"
+msgstr "Vertical-Repeat Bild (rechts fest)"
+
+#: lib/admin/impact-css-builder.php:85
+msgid "Horizontal & Vertical-Repeat Image"
+msgstr "Horizontal-und Vertikal-Bildwiederholung"
+
+#: lib/admin/impact-css-builder.php:86
+msgid "Horizontal & Vertical-Repeat Image (Fixed)"
+msgstr "Horizontal-und Vertikal-Repeat Image (Fixed)"
+
+#: lib/admin/impact-css-builder.php:87
+#: lib/admin/impact-css-builder.php:106
+#: lib/admin/impact-css-builder.php:312
+msgid "Type"
+msgstr "Typ"
+
+#: lib/admin/impact-css-builder.php:88
+#: lib/admin/impact-css-builder.php:97
+#: lib/admin/impact-css-builder.php:120
+#: lib/admin/impact-css-builder.php:282
+#: lib/admin/impact-css-builder.php:292
+#: lib/admin/impact-css-builder.php:326
+msgid "Color"
+msgstr "Farbe"
+
+#: lib/admin/impact-css-builder.php:90
+msgid "Image"
+msgstr "Bild"
+
+#: lib/admin/impact-css-builder.php:93
+msgid "Image URL"
+msgstr "Bild-URL"
+
+#: lib/admin/impact-css-builder.php:108
+#: lib/admin/impact-css-builder.php:314
+msgid "Full"
+msgstr "voll"
+
+#: lib/admin/impact-css-builder.php:109
+#: lib/admin/impact-css-builder.php:138
+#: lib/admin/impact-css-builder.php:148
+#: lib/admin/impact-css-builder.php:315
+#: lib/admin/impact-css-builder.php:330
+#: lib/admin/impact-css-builder.php:336
+msgid "Top"
+msgstr "Top"
+
+#: lib/admin/impact-css-builder.php:110
+#: lib/admin/impact-css-builder.php:142
+#: lib/admin/impact-css-builder.php:152
+#: lib/admin/impact-css-builder.php:316
+msgid "Bottom"
+msgstr "Boden"
+
+#: lib/admin/impact-css-builder.php:111
+#: lib/admin/impact-css-builder.php:144
+#: lib/admin/impact-css-builder.php:154
+#: lib/admin/impact-css-builder.php:181
+#: lib/admin/impact-css-builder.php:238
+#: lib/admin/impact-css-builder.php:317
+#: lib/admin/impact-css-builder.php:345
+msgid "Left"
+msgstr "links"
+
+#: lib/admin/impact-css-builder.php:112
+#: lib/admin/impact-css-builder.php:140
+#: lib/admin/impact-css-builder.php:150
+#: lib/admin/impact-css-builder.php:183
+#: lib/admin/impact-css-builder.php:239
+#: lib/admin/impact-css-builder.php:318
+#: lib/admin/impact-css-builder.php:346
+msgid "Right"
+msgstr "rechts"
+
+#: lib/admin/impact-css-builder.php:114
+#: lib/admin/impact-css-builder.php:166
+#: lib/admin/impact-css-builder.php:320
+msgid "Thickness"
+msgstr "Dicke"
+
+#: lib/admin/impact-css-builder.php:115
+#: lib/admin/impact-css-builder.php:232
+#: lib/admin/impact-css-builder.php:234
+#: lib/admin/impact-css-builder.php:321
+#: lib/admin/impact-css-builder.php:342
+msgid "px"
+msgstr "px"
+
+#: lib/admin/impact-css-builder.php:116
+#: lib/admin/impact-css-builder.php:322
+msgid "Style"
+msgstr "Stil"
+
+#: lib/admin/impact-css-builder.php:124
+msgid "Tp-Lft"
+msgstr "Tp-Lft"
+
+#: lib/admin/impact-css-builder.php:126
+msgid "Tp-Rt"
+msgstr "Tp-Rt"
+
+#: lib/admin/impact-css-builder.php:128
+msgid "Btm-Rt"
+msgstr "Btm-Rt"
+
+#: lib/admin/impact-css-builder.php:130
+msgid "Btm-Lft"
+msgstr "Btm-Lft"
+
+#: lib/admin/impact-css-builder.php:166
+msgid "px |"
+msgstr "Pixel |"
+
+#: lib/admin/impact-css-builder.php:171
+#: lib/admin/impact-css-builder.php:176
+msgid "Normal"
+msgstr "normal"
+
+#: lib/admin/impact-css-builder.php:172
+msgid "Bold"
+msgstr "fett"
+
+#: lib/admin/impact-css-builder.php:177
+msgid "Italic"
+msgstr "kursiv"
+
+#: lib/admin/impact-css-builder.php:182
+msgid "Center"
+msgstr "Zentrum"
+
+#: lib/admin/impact-css-builder.php:187
+#: lib/admin/impact-css-builder.php:237
+#: lib/admin/impact-css-builder.php:347
+msgid "None"
+msgstr "keiner"
+
+#: lib/admin/impact-css-builder.php:188
+msgid "Uppercase"
+msgstr "Großbuchstaben"
+
+#: lib/admin/impact-css-builder.php:189
+msgid "Lowercase"
+msgstr "Kleinbuchstaben"
+
+#: lib/admin/impact-css-builder.php:190
+msgid "Capitalize"
+msgstr "kapitalisieren"
+
+#: lib/admin/impact-css-builder.php:194
+msgid ".5px"
+msgstr "0,5 px"
+
+#: lib/admin/impact-css-builder.php:195
+msgid "1px"
+msgstr "1px"
+
+#: lib/admin/impact-css-builder.php:196
+msgid "1.5px"
+msgstr "1.5px"
+
+#: lib/admin/impact-css-builder.php:197
+msgid "2px"
+msgstr "2px"
+
+#: lib/admin/impact-css-builder.php:198
+msgid "2.5px"
+msgstr "2.5px"
+
+#: lib/admin/impact-css-builder.php:199
+msgid "3px"
+msgstr "3px"
+
+#: lib/admin/impact-css-builder.php:200
+msgid "3.5px"
+msgstr "3.5px"
+
+#: lib/admin/impact-css-builder.php:201
+msgid "4px"
+msgstr "4px"
+
+#: lib/admin/impact-css-builder.php:205
+msgid "100%"
+msgstr "100%"
+
+#: lib/admin/impact-css-builder.php:206
+msgid "110%"
+msgstr "110%"
+
+#: lib/admin/impact-css-builder.php:207
+msgid "120%"
+msgstr "120%"
+
+#: lib/admin/impact-css-builder.php:208
+msgid "130%"
+msgstr "130%"
+
+#: lib/admin/impact-css-builder.php:209
+msgid "140%"
+msgstr "140%"
+
+#: lib/admin/impact-css-builder.php:210
+msgid "150%"
+msgstr "150%"
+
+#: lib/admin/impact-css-builder.php:211
+msgid "160%"
+msgstr "160%"
+
+#: lib/admin/impact-css-builder.php:212
+msgid "170%"
+msgstr "170%"
+
+#: lib/admin/impact-css-builder.php:213
+msgid "180%"
+msgstr "180%"
+
+#: lib/admin/impact-css-builder.php:214
+msgid "190%"
+msgstr "190%"
+
+#: lib/admin/impact-css-builder.php:215
+msgid "200%"
+msgstr "200%"
+
+#: lib/admin/impact-css-builder.php:219
+#: lib/admin/impact-css-builder.php:251
+msgid "none"
+msgstr "keiner"
+
+#: lib/admin/impact-css-builder.php:220
+msgid "underline"
+msgstr "unterstreichen"
+
+#: lib/admin/impact-css-builder.php:221
+msgid "overline"
+msgstr "overline"
+
+#: lib/admin/impact-css-builder.php:222
+msgid "line-through"
+msgstr "line-through"
+
+#: lib/admin/impact-css-builder.php:223
+msgid "blink"
+msgstr "blinken"
+
+#: lib/admin/impact-css-builder.php:224
+#: lib/admin/impact-css-builder.php:247
+#: lib/admin/impact-css-builder.php:267
+msgid "inherit"
+msgstr "erben"
+
+#: lib/admin/impact-css-builder.php:243
+msgid "absolute"
+msgstr "absolut"
+
+#: lib/admin/impact-css-builder.php:244
+msgid "fixed"
+msgstr "fixiert"
+
+#: lib/admin/impact-css-builder.php:245
+msgid "relative"
+msgstr "relativ"
+
+#: lib/admin/impact-css-builder.php:246
+msgid "static"
+msgstr "statisch"
+
+#: lib/admin/impact-css-builder.php:252
+msgid "block"
+msgstr "blockieren"
+
+#: lib/admin/impact-css-builder.php:253
+msgid "inline"
+msgstr "inline-"
+
+#: lib/admin/impact-css-builder.php:254
+msgid "inline-block"
+msgstr "inline-block"
+
+#: lib/admin/impact-css-builder.php:255
+msgid "inline-table"
+msgstr "inline-table"
+
+#: lib/admin/impact-css-builder.php:256
+msgid "list-item"
+msgstr "list-item"
+
+#: lib/admin/impact-css-builder.php:257
+msgid "run-in"
+msgstr "Run-in"
+
+#: lib/admin/impact-css-builder.php:258
+msgid "table"
+msgstr "Tabelle"
+
+#: lib/admin/impact-css-builder.php:259
+msgid "table-caption"
+msgstr "table - caption"
+
+#: lib/admin/impact-css-builder.php:260
+msgid "table-cell"
+msgstr "Tabelle-Zelle"
+
+#: lib/admin/impact-css-builder.php:261
+msgid "table-column"
+msgstr "Tabelle-Spalte"
+
+#: lib/admin/impact-css-builder.php:262
+msgid "table-column-group"
+msgstr "tabelle-Spalte-Gruppe"
+
+#: lib/admin/impact-css-builder.php:263
+msgid "table-footer-group"
+msgstr "Tabelle-Fußzeile-Gruppe"
+
+#: lib/admin/impact-css-builder.php:264
+msgid "table-header-group"
+msgstr "Tabelle-Kopfzeile-Gruppe"
+
+#: lib/admin/impact-css-builder.php:265
+msgid "table-row"
+msgstr "Tabelle-Reihe"
+
+#: lib/admin/impact-css-builder.php:266
+msgid "table-row-group"
+msgstr "Tabelle-Reihe-Gruppe"
+
+#: lib/admin/impact-css-builder.php:274
+#: lib/admin/impact-css-builder.php:286
+msgid "Lft-Rt"
+msgstr "Lft-Rt"
+
+#: lib/admin/impact-css-builder.php:276
+#: lib/admin/impact-css-builder.php:288
+msgid "Tp-Btm"
+msgstr "Tp-Btm"
+
+#: lib/admin/impact-css-builder.php:278
+#: lib/admin/impact-css-builder.php:290
+msgid "Blur"
+msgstr "verwischen"
+
+#: lib/admin/impact-css-builder.php:280
+msgid "Spread"
+msgstr "verbreiten"
+
+#: lib/admin/impact-css-builder.php:300
+msgid "Class:"
+msgstr "Klasse:"
+
+#: lib/admin/impact-css-builder.php:305
+msgid "Width Calc:"
+msgstr "Breite Calc:"
+
+#: lib/admin/impact-css-builder.php:305
+msgid "(\"Parent\" = Widget Area Container)"
+msgstr "(Elternteil = Widget Bereich Container)"
+
+#: lib/admin/impact-css-builder.php:306
+msgid "Parent Width"
+msgstr "Eltern Breite"
+
+#: lib/admin/impact-css-builder.php:308
+msgid "# of Horizontal Widgets"
+msgstr "# Der Horizontale Widgets"
+
+#: lib/admin/impact-css-builder.php:311
+msgid "Border:"
+msgstr "Border:"
+
+#: lib/admin/impact-css-builder.php:329
+msgid "Margin:"
+msgstr "Margin:"
+
+#: lib/admin/impact-css-builder.php:331
+#: lib/admin/impact-css-builder.php:337
+msgid "Rt"
+msgstr "Rt"
+
+#: lib/admin/impact-css-builder.php:332
+#: lib/admin/impact-css-builder.php:338
+msgid "Btm"
+msgstr "Btm"
+
+#: lib/admin/impact-css-builder.php:333
+#: lib/admin/impact-css-builder.php:339
+msgid "Lft"
+msgstr "Lft"
+
+#: lib/admin/impact-css-builder.php:335
+msgid "Padding:"
+msgstr "Padding:"
+
+#: lib/admin/impact-css-builder.php:341
+msgid "Widget Width:"
+msgstr "Widget Breite:"
+
+#: lib/admin/impact-css-builder.php:343
+msgid "Float:"
+msgstr "Schwimmer:"
+
+#: lib/admin/impact-hook-boxes.php:10
+#: lib/admin/impact-hook-boxes.php:108
+#: lib/admin/impact-hook-boxes.php:131
+msgid "Save Hook Box"
+msgstr "Speichern Haken Box"
+
+#: lib/admin/impact-hook-boxes.php:35
+#: lib/admin/impact-hook-boxes.php:69
+msgid "Hook "
+msgstr "Haken"
+
+#: lib/admin/impact-hook-boxes.php:35
+msgid "has been Updated!"
+msgstr "wurde aktualisiert!"
+
+#: lib/admin/impact-hook-boxes.php:46
+msgid "You Must Choose A Template & Hook Location"
+msgstr "Sie müssen einen Template & Hook Location"
+
+#: lib/admin/impact-hook-boxes.php:52
+#: lib/admin/impact-hook-boxes.php:86
+#: lib/admin/impact-hook-boxes.php:96
+msgid "Edit Hook Box"
+msgstr "Bearbeiten Haken Box"
+
+#: lib/admin/impact-hook-boxes.php:61
+#: lib/admin/impact-hook-boxes.php:143
+#: lib/admin/impact-hook-boxes.php:153
+msgid "Delete Hook Box"
+msgstr "Löschen Haken Box"
+
+#: lib/admin/impact-hook-boxes.php:69
+#: lib/admin/impact-template-builder.php:24
+msgid "has been Deleted!"
+msgstr "wurde gelöscht!"
+
+#: lib/admin/impact-hook-boxes.php:123
+msgid "Before Widgets"
+msgstr "Bevor Widgets"
+
+#: lib/admin/impact-hook-boxes.php:126
+msgid "After Widgets"
+msgstr "nach Widgets"
+
+#: lib/admin/impact-hook-boxes.php:165
+msgid "Enter Custom HTML, JavaScript & Text Here"
+msgstr "Geben Custom HTML, JavaScript & Text Hier"
+
+#: lib/admin/impact-menu.php:16
+msgid "Template Builder"
+msgstr "Schablone Baumeister"
+
+#: lib/admin/impact-menu.php:17
+msgid "Impact Hooks"
+msgstr "Auswirkungen Hooks"
+
+#: lib/admin/impact-menu.php:18
+msgid "Nuts & Bolts"
+msgstr "Nuts & Bolts"
+
+#: lib/admin/impact-nuts-bolts.php:13
+msgid "Template has been Imported"
+msgstr "Template importiert wurde"
+
+#: lib/admin/impact-nuts-bolts.php:29
+msgid "Export A Template"
+msgstr "Exportieren Sie eine Vorlage"
+
+#: lib/admin/impact-nuts-bolts.php:34
+msgid "Include Images?"
+msgstr "Mit Bildern?"
+
+#: lib/admin/impact-nuts-bolts.php:39
+msgid "Export Template"
+msgstr "Vorlage exportieren"
+
+#: lib/admin/impact-nuts-bolts.php:56
+msgid "Import A Template"
+msgstr "Importieren Sie eine Vorlage"
+
+#: lib/admin/impact-nuts-bolts.php:61
+msgid "Template File:"
+msgstr "Template-Datei:"
+
+#: lib/admin/impact-nuts-bolts.php:66
+msgid "Import Template"
+msgstr "Vorlage importieren"
+
+#: lib/admin/impact-template-builder.php:24
+msgid "Template "
+msgstr "Schablone"
+
+#: lib/admin/impact-template-builder.php:39
+#, php-format
+msgid "Impact has been updated to Version %s"
+msgstr "Auswirkungen hat Version% s wurde aktualisiert"
+
+#: lib/admin/impact-template-builder.php:56
+#: lib/admin/impact-template-builder.php:66
+msgid "Edit Template"
+msgstr "Vorlage bearbeiten"
+
+#: lib/admin/impact-template-builder.php:85
+msgid "Save Template As"
+msgstr "Template speichern"
+
+#: lib/admin/impact-template-builder.php:95
+msgid "Save Template"
+msgstr "Vorlage speichern"
+
+#: lib/admin/impact-template-builder.php:104
+msgid "CSS Builder"
+msgstr "CSS Builder"
+
+#: lib/admin/impact-template-builder.php:108
+msgid "Template Options"
+msgstr "Schablone Optionen"
+
+#: lib/admin/impact-template-builder.php:110
+msgid "Template Structure"
+msgstr "Schablone Struktur"
+
+#: lib/admin/impact-template-builder.php:115
+msgid "Header:"
+msgstr "Kopfzeile"
+
+#: lib/admin/impact-template-builder.php:127
+msgid "Footer:"
+msgstr "Fußzeile"
+
+#: lib/admin/impact-template-builder.php:139
+msgid "Sidebar:"
+msgstr "Sidebar"
+
+#: lib/admin/impact-template-builder.php:155
+msgid "Widths & Heights / Margins & Padding"
+msgstr "Breiten und Höhen / Margins & Padding"
+
+#: lib/admin/impact-template-builder.php:160
+msgid "Header Height:"
+msgstr "Header Höhe"
+
+#: lib/admin/impact-template-builder.php:168
+msgid "Content Width:"
+msgstr "Inhalt Breite:"
+
+#: lib/admin/impact-template-builder.php:176
+msgid "Sidebar Width:"
+msgstr "Sidebar Breite:"
+
+#: lib/admin/impact-template-builder.php:184
+msgid "Sidebar2 Width:"
+msgstr "Sidebar2 Breite:"
+
+#: lib/admin/impact-template-builder.php:192
+msgid "Footer Height:"
+msgstr "Fußzeile Höhe:"
+
+#: lib/admin/impact-template-builder.php:202
+msgid "Top/Bottom Main Margins:"
+msgstr "Top / Bottom Haupt Margins:"
+
+#: lib/admin/impact-template-builder.php:218
+msgid "Top/Bottom Content Margins:"
+msgstr "Top / Bottom Inhalt Margins:"
+
+#: lib/admin/impact-template-builder.php:234
+msgid "Top/Bottom Content Padding:"
+msgstr "Top / Bottom Inhalt Polsterung:"
+
+#: lib/admin/impact-template-builder.php:250
+msgid "Left/Right Content Padding:"
+msgstr "Left / Right Inhalt Polsterung:"
+
+#: lib/admin/impact-template-builder.php:266
+msgid "Left/Right Container Padding:"
+msgstr "Left / Right Container Polsterung:"
+
+#: lib/admin/impact-template-builder.php:282
+msgid "Content/Sidebar Gap:"
+msgstr "Inhalt/Sidebar Lücke:"
+
+#: lib/admin/impact-template-builder.php:300
+msgid "The Total Site Width is calculated by adding together all widths of elements and padding in your template. This is useful info to have, especially if you intend to use images for the Header, etc., and need to know how wide to create them."
+msgstr "Die Total-Site Breite wird durch Addition aller Breiten der Elemente und Polsterung in Ihrem Template berechnet. Dies ist nützlich, Informationen zu haben, vor allem, wenn Sie Bilder für das verwenden wollen Header, etc., und müssen wissen, wie weit sie zu schaffen."
+
+#: lib/admin/impact-template-builder.php:300
+msgid "Total Site Width:"
+msgstr "Insgesamt Standort Breite:"
+
+#: lib/admin/impact-template-builder.php:309
+msgid "Title Area"
+msgstr "Titel Area"
+
+#: lib/admin/impact-template-builder.php:314
+msgid "Title:"
+msgstr "Titel:"
+
+#: lib/admin/impact-template-builder.php:318
+msgid "No Title"
+msgstr "No Title"
+
+#: lib/admin/impact-template-builder.php:319
+msgid "Text Title"
+msgstr "Text Titel"
+
+#: lib/admin/impact-template-builder.php:320
+msgid "Logo Image"
+msgstr "Logo Bild"
+
+#: lib/admin/impact-template-builder.php:326
+msgid "Logo:"
+msgstr "Logo:"
+
+#: lib/admin/impact-template-builder.php:332
+#: lib/admin/impact-template-builder.php:421
+#: lib/admin/impact-template-builder.php:457
+#: lib/admin/impact-template-builder.php:487
+#: lib/admin/impact-template-builder.php:520
+#: lib/admin/impact-template-builder.php:550
+#: lib/admin/impact-template-builder.php:580
+msgid "Browse"
+msgstr "blättern"
+
+#: lib/admin/impact-template-builder.php:337
+msgid "Title Link:"
+msgstr "Titel Link:"
+
+#: lib/admin/impact-template-builder.php:340
+msgid "If the Title Link field is left blank, your Text Title or Logo Image will link to your homepage by default"
+msgstr "Wenn der Titel Link Feld leer gelassen wird, wird Ihr Text Titel oder Logo Bild zu Ihrer Homepage standardmäßig verknüpfen"
+
+#: lib/admin/impact-template-builder.php:345
+msgid "Top Margin:"
+msgstr "Oberer Rand:"
+
+#: lib/admin/impact-template-builder.php:361
+msgid "Left Margin:"
+msgstr "Linker Rand:"
+
+#: lib/admin/impact-template-builder.php:378
+msgid "Backgrounds: Main / Header / Wrap"
+msgstr "Hintergründe: Main / Header / wickeln"
+
+#: lib/admin/impact-template-builder.php:383
+msgid "Main Background: Type|Color|Image"
+msgstr "Startseite Hintergrund:Typ | Farbe | bild"
+
+#: lib/admin/impact-template-builder.php:418
+#: lib/admin/impact-template-builder.php:454
+#: lib/admin/impact-template-builder.php:484
+#: lib/admin/impact-template-builder.php:517
+#: lib/admin/impact-template-builder.php:547
+#: lib/admin/impact-template-builder.php:577
+msgid "Image:"
+msgstr "Bild:"
+
+#: lib/admin/impact-template-builder.php:428
+msgid "Header Background: Type|Color|Image"
+msgstr "Header Hintergrund: Typ|Farbe|Bild"
+
+#: lib/admin/impact-template-builder.php:464
+msgid "Wrap Background: Type|Color|Image"
+msgstr "Wickeln Hintergrund: Typ|Farbe|Bild"
+
+#: lib/admin/impact-template-builder.php:492
+msgid "Backgrounds: Content / Sidebar / Footer"
+msgstr "Hintergründe: Inhalt / Sidebar / Fußzeile"
+
+#: lib/admin/impact-template-builder.php:497
+msgid "Content Background: Type|Color|Image"
+msgstr "Inhalt Hintergrund Typ|Farbe|Bild"
+
+#: lib/admin/impact-template-builder.php:527
+msgid "Sidebar Background: Type|Color|Image"
+msgstr "Sidebar Hintergrund: Typ|Farbe|Bild"
+
+#: lib/admin/impact-template-builder.php:557
+msgid "Footer Background: Type|Color|Image"
+msgstr "Footer Hintergrund: Typ|Farbe|Bild"
+
+#: lib/admin/impact-template-builder.php:586
+msgid "Border Options"
+msgstr "Border Optionen"
+
+#: lib/admin/impact-template-builder.php:591
+msgid "Border Style:"
+msgstr "Border Style:"
+
+#: lib/admin/impact-template-builder.php:604
+msgid "Border Color:"
+msgstr "Randfarbe:"
+
+#: lib/admin/impact-template-builder.php:612
+msgid "Top & Bottom Thickness:"
+msgstr "Top & Bottom Dicke:"
+
+#: lib/admin/impact-template-builder.php:620
+msgid "Left & Right Thickness:"
+msgstr "Left & Right Dicke:"
+
+#: lib/admin/impact-template-builder.php:629
+msgid "Active Widget Areas"
+msgstr "Aktive Widget Areas"
+
+#: lib/admin/impact-template-builder.php:637
+msgid "Before Page Wrap"
+msgstr "Bevor Seite Wrap"
+
+#: lib/admin/impact-template-builder.php:641
+#: lib/admin/impact-template-builder.php:659
+#: lib/admin/impact-template-builder.php:677
+#: lib/admin/impact-template-builder.php:695
+#: lib/admin/impact-template-builder.php:713
+#: lib/admin/impact-template-builder.php:731
+#: lib/admin/impact-template-builder.php:749
+#: lib/admin/impact-template-builder.php:767
+#: lib/admin/impact-template-builder.php:785
+#: lib/admin/impact-template-builder.php:803
+#: lib/admin/impact-template-builder.php:821
+#: lib/admin/impact-template-builder.php:839
+#: lib/admin/impact-template-builder.php:857
+#: lib/admin/impact-template-builder.php:875
+#: lib/admin/impact-template-builder.php:893
+#: lib/admin/impact-template-builder.php:911
+msgid "No Align"
+msgstr "Kein ausrichten"
+
+#: lib/admin/impact-template-builder.php:642
+#: lib/admin/impact-template-builder.php:660
+#: lib/admin/impact-template-builder.php:678
+#: lib/admin/impact-template-builder.php:696
+#: lib/admin/impact-template-builder.php:714
+#: lib/admin/impact-template-builder.php:732
+#: lib/admin/impact-template-builder.php:750
+#: lib/admin/impact-template-builder.php:768
+#: lib/admin/impact-template-builder.php:786
+#: lib/admin/impact-template-builder.php:804
+#: lib/admin/impact-template-builder.php:822
+#: lib/admin/impact-template-builder.php:840
+#: lib/admin/impact-template-builder.php:858
+#: lib/admin/impact-template-builder.php:876
+#: lib/admin/impact-template-builder.php:894
+#: lib/admin/impact-template-builder.php:912
+msgid "Left Align"
+msgstr "linksbündig"
+
+#: lib/admin/impact-template-builder.php:643
+#: lib/admin/impact-template-builder.php:661
+#: lib/admin/impact-template-builder.php:679
+#: lib/admin/impact-template-builder.php:697
+#: lib/admin/impact-template-builder.php:715
+#: lib/admin/impact-template-builder.php:733
+#: lib/admin/impact-template-builder.php:751
+#: lib/admin/impact-template-builder.php:769
+#: lib/admin/impact-template-builder.php:787
+#: lib/admin/impact-template-builder.php:805
+#: lib/admin/impact-template-builder.php:823
+#: lib/admin/impact-template-builder.php:841
+#: lib/admin/impact-template-builder.php:859
+#: lib/admin/impact-template-builder.php:877
+#: lib/admin/impact-template-builder.php:895
+#: lib/admin/impact-template-builder.php:913
+msgid "Right Align"
+msgstr "Rechtsbündig"
+
+#: lib/admin/impact-template-builder.php:647
+#: lib/admin/impact-template-builder.php:665
+#: lib/admin/impact-template-builder.php:683
+#: lib/admin/impact-template-builder.php:701
+#: lib/admin/impact-template-builder.php:719
+#: lib/admin/impact-template-builder.php:737
+#: lib/admin/impact-template-builder.php:755
+#: lib/admin/impact-template-builder.php:773
+#: lib/admin/impact-template-builder.php:791
+#: lib/admin/impact-template-builder.php:809
+#: lib/admin/impact-template-builder.php:827
+#: lib/admin/impact-template-builder.php:845
+#: lib/admin/impact-template-builder.php:863
+#: lib/admin/impact-template-builder.php:881
+#: lib/admin/impact-template-builder.php:899
+#: lib/admin/impact-template-builder.php:917
+msgid "Width"
+msgstr "Breite"
+
+#: lib/admin/impact-template-builder.php:655
+msgid "Before Header"
+msgstr "Vor Kopfzeile"
+
+#: lib/admin/impact-template-builder.php:673
+msgid "In Header"
+msgstr "in Kopfzeile"
+
+#: lib/admin/impact-template-builder.php:691
+msgid "After Header"
+msgstr "nach Kopfzeile"
+
+#: lib/admin/impact-template-builder.php:709
+msgid "Before Container"
+msgstr "Vor Container"
+
+#: lib/admin/impact-template-builder.php:727
+msgid "Before Content"
+msgstr "bevor Inhalt"
+
+#: lib/admin/impact-template-builder.php:745
+msgid "After Content"
+msgstr "nach Inhalt"
+
+#: lib/admin/impact-template-builder.php:763
+msgid "Before Sidebar"
+msgstr "Vor Sidebar"
+
+#: lib/admin/impact-template-builder.php:781
+msgid "After Sidebar"
+msgstr "nach Sidebar"
+
+#: lib/admin/impact-template-builder.php:799
+msgid "Before Sidebar2"
+msgstr "Vor Sidebar2"
+
+#: lib/admin/impact-template-builder.php:817
+msgid "After Sidebar2"
+msgstr "nach Sidebar2"
+
+#: lib/admin/impact-template-builder.php:835
+msgid "After Container"
+msgstr "nach Container"
+
+#: lib/admin/impact-template-builder.php:853
+msgid "Before Footer"
+msgstr "Vor Footer"
+
+#: lib/admin/impact-template-builder.php:871
+msgid "In Footer"
+msgstr "in Fußzeile"
+
+#: lib/admin/impact-template-builder.php:889
+msgid "After Footer"
+msgstr "nach Fußzeile"
+
+#: lib/admin/impact-template-builder.php:907
+msgid "After Page Wrap"
+msgstr "Nach Seite Wrap"
+
+#: lib/admin/impact-template-builder.php:923
+msgid "Template Custom CSS"
+msgstr "Schablone Brauch CSS"
+
+#: lib/admin/impact-template-builder.php:952
+#: lib/admin/impact-template-builder.php:962
+msgid "Delete Template"
+msgstr "löschen Schablone"
+
+#: lib/admin/impact-template-builder.php:976
+msgid "Show Template Options"
+msgstr "zeigen Schablone Optionen"
+
+#: lib/admin/impact-template-builder.php:977
+msgid "Show CSS Builder"
+msgstr "zeigen CSS Baumeister"
+
+#: lib/admin/impact-template-builder.php:982
+msgid "Are You Still Using Internet Explorer?"
+msgstr "Sind Sie immer noch mit Internet Explorer?"
+
+#: lib/admin/impact-template-builder.php:983
+msgid "We suggest upgrading to a better browser for web design & development. We recommend:"
+msgstr "Wir empfehlen ein Upgrade auf eine bessere Browser für Web-Design und Entwicklung. Wir empfehlen Ihnen:"
+
+#: lib/admin/impact-template-builder.php:985
+msgid "-or-"
+msgstr "-oder-"
+
+#: lib/admin/impact-template-builder.php:987
+msgid "If you insist on sticking with Internet Explorer, beware that we do not guarantee the Impact Template Builder will be fully compatible."
+msgstr "Wenn Sie auf Kleben mit Internet Explorer darauf, aufpassen, dass wir nicht garantieren, das Impact Template Builder wird voll kompatibel sein."
+
+#: lib/functions/impact-post-data.php:43
+msgid "Impact Page Options"
+msgstr "Auswirkungen Seitenoptionen"
+
+#: lib/functions/impact-post-data.php:44
+msgid "Impact Post Options"
+msgstr "Auswirkungen Beitrag Optionen"
+
+#: lib/functions/impact-post-data.php:55
+msgid "Use Impact For This Page? "
+msgstr "Verwenden Auswirkungen für diese Seite?"
+
+#: lib/functions/impact-post-data.php:57
+#: lib/functions/impact-post-data.php:87
+#: lib/functions/impact-post-data.php:95
+msgid "No"
+msgstr "nicht"
+
+#: lib/functions/impact-post-data.php:58
+#: lib/functions/impact-post-data.php:88
+#: lib/functions/impact-post-data.php:96
+msgid "Yes"
+msgstr "ja"
+
+#: lib/functions/impact-post-data.php:62
+msgid "Select Impact Template: "
+msgstr "Wählen Auswirkungen Vorlage:"
+
+#: lib/functions/impact-post-data.php:68
+msgid "Impact Page Title"
+msgstr "Auswirkungen Seite Titel"
+
+#: lib/functions/impact-post-data.php:74
+msgid "Impact Description"
+msgstr "Auswirkungen Beschreibung"
+
+#: lib/functions/impact-post-data.php:78
+msgid "Impact Keywords"
+msgstr "Auswirkungen Schlüsselwörter"
+
+#: lib/functions/impact-post-data.php:84
+msgid "Noindex This Page"
+msgstr "Noindex diese Seite"
+
+#: lib/functions/impact-post-data.php:84
+#: lib/functions/impact-post-data.php:92
+msgid "more info"
+msgstr "mehr Infos"
+
+#: lib/functions/impact-post-data.php:85
+#: lib/functions/impact-post-data.php:93
+msgid "Apply"
+msgstr "anwenden"
+
+#: lib/functions/impact-post-data.php:85
+#: lib/functions/impact-post-data.php:93
+msgid "to this post/page?"
+msgstr "Auf diesen Beitrag / Seite?"
+
+#: lib/functions/impact-post-data.php:92
+msgid "Nofollow This Page"
+msgstr "Nofollow diese Seite"
+
+#: lib/functions/impact-post-data.php:102
+msgid "Header Scripts"
+msgstr "Kopfzeile Scripts"
+
+#: lib/functions/impact-post-data.php:106
+msgid "Footer Scripts"
+msgstr "Fußzeile Scripts"
+
+#: lib/functions/impact-post-data.php:357
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr " %s <Spannweite Klasse=\", sagt>, sagt:<Spannweite>"
+
+#: lib/functions/impact-post-data.php:360
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: lib/functions/impact-post-data.php:367
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: lib/functions/impact-post-data.php:367
+#: lib/functions/impact-post-data.php:384
+msgid "(Edit)"
+msgstr "(bearbeiten)"
+
+#: lib/functions/impact-post-data.php:384
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: lib/functions/impact-post-data.php:404
+msgid "Name"
+msgstr "Name"
+
+#: lib/functions/impact-post-data.php:406
+msgid "Email"
+msgstr "E-Mail"
+
+#: lib/functions/impact-post-data.php:408
+msgid "Website"
+msgstr "Webseite"
+
+#: lib/functions/impact-post-data.php:416
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Sie müssen <a href=\"%s\"> eingeloggt sein </ a>, um einen Kommentar zu schreiben."
+
+#: lib/functions/impact-post-data.php:417
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Angemeldet als<a href=\"%1s\">% 2s<a>.<a href=\"%3s\" title=\"Log aus diesem account\">Abmelden?<a>"
+
+#: lib/functions/impact-post-data.php:418
+msgid "Your email address will not be published."
+msgstr "Ihre E-Mail-Adresse wird nicht veröffentlicht."
+
+#: lib/functions/impact-post-data.php:419
+#, php-format
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Sie können diese <abbr title=\"HyperText Markup Language\"> HTML </ abbr>-Tags und Attribute:% s"
+
+#: lib/functions/impact-post-data.php:422
+msgid "Add Your Comment"
+msgstr "Fügen Sie Ihren Kommentar"
+
+#: lib/functions/impact-post-data.php:423
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Lassen Sie eine Antwort, um% s"
+
+#: lib/functions/impact-post-data.php:424
+msgid "Cancel reply"
+msgstr "antworten abbrechen"
+
+#: lib/functions/impact-post-data.php:425
+msgid "Submit Comment"
+msgstr "Kommentar abschicken"
+
+#: lib/functions/impact-post-data.php:540
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+
+#: lib/functions/impact-post-data.php:559
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dieser Eintrag wurde in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: lib/functions/impact-post-data.php:561
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: lib/functions/impact-post-data.php:563
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Lesezeichen auf den <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: lib/functions/impact-templates.php:76
+msgid "Template ID Must Not Be Blank"
+msgstr "Schablone ID muss Nicht leer sein"
+
+#: lib/functions/impact-templates.php:80
+msgid "Template ID Must Contain Only Letters, Numbers, Spaces, Hyphens & Underscores"
+msgstr " Schablone ID darf nur Buchstaben, Zahlen, Leerzeichen, Bindestriche und Unterstriche"
+
+#: lib/functions/impact-update.php:51
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr "An Unexpected HTTP Fehler aufgetreten während der API Anfrage. </p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">versuchen Sie es erneut</a>"
+
+#: lib/functions/impact-update.php:56
+msgid "An unknown error occurred"
+msgstr "Ein unbekannter Fehler ist aufgetreten"
+
+#: lib/functions/impact-widgets.php:44
+msgid "Use this widget to add & style custom menus in Impact Page Builder templates"
+msgstr "Verwenden Sie diesen Widget auf & style benutzerdefinierte Menüs in Impact Page Builder Vorlagen hinzufügen"
+
+#: lib/functions/impact-widgets.php:45
+msgid "Impact - Custom Menu"
+msgstr "Wirkung - Brauch Menü"
+
+#: lib/functions/impact-widgets.php:224
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Keine Menüs wurden noch nicht erstellt. <a href=\"%s\"> erstellen einige </ a>."
+
+#: lib/functions/impact-widgets.php:244
+msgid "Click \"Save\" once to activate color pickers"
+msgstr "Klicken Sie auf \"Speichern\" einmal zu aktivieren Farbenpickers"
+
+#: lib/functions/impact-widgets.php:246
+msgid "Select Menu:"
+msgstr "Wählen Sie Menü:"
+
+#: lib/functions/impact-widgets.php:258
+msgid "Main BG:"
+msgstr "Haupt-BG:"
+
+#: lib/functions/impact-widgets.php:262
+msgid "Item BG:"
+msgstr "Artikel BG:"
+
+#: lib/functions/impact-widgets.php:266
+msgid "Item Text:"
+msgstr "Artikel Text"
+
+#: lib/functions/impact-widgets.php:270
+msgid "Hover BG:"
+msgstr "schweben BG:"
+
+#: lib/functions/impact-widgets.php:274
+msgid "Hover Text:"
+msgstr "schweben Text:"
+
+#: lib/functions/impact-widgets.php:278
+msgid "Current BG:"
+msgstr "Strom BG"
+
+#: lib/functions/impact-widgets.php:282
+msgid "Current Text:"
+msgstr "Strom Text:"
+
+#: lib/functions/impact-widgets.php:286
+msgid "Menu Font:"
+msgstr "Fonts:"
+
+#: lib/functions/impact-widgets.php:290
+msgid "Menu Align:"
+msgstr "Menu ausrichten:"
+
+#: lib/templates/impact-comments-template.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Beitrag ist durch ein Passwort geschützt. Geben Sie das Passwort, um alle Kommentare anzuzeigen."
+
+#: lib/templates/impact-comments-template.php:38
+msgid "Read below or"
+msgstr "Lesen Sie unten, oder"
+
+#: lib/templates/impact-comments-template.php:38
+msgid "add a comment..."
+msgstr "einen Kommentar hinzufügen ..."
+
+#: lib/templates/impact-comments-template.php:42
+#: lib/templates/impact-comments-template.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\"> ← </ span> Ältere Kommentare"
+
+#: lib/templates/impact-comments-template.php:43
+#: lib/templates/impact-comments-template.php:62
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Kommentare <span class=\"meta-nav\"> → </ span>"
+
+#: lib/templates/impact-master-template.php:169
+#: lib/templates/impact-master-template.php:194
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: lib/templates/impact-master-template.php:170
+#: lib/templates/impact-master-template.php:199
+msgid "Edit"
+msgstr "bearbeiten"
+
+#: lib/templates/impact-master-template.php:212
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Alle Beiträge von% s <span class=\"meta-nav\"> → </ span>"
+
+#: lib/templates/impact-template-builder.tpl.php:189
+msgid "<p>There was nothing so VERY remarkable in that; nor did Alice think it so VERY much out of the way to hear the Rabbit say to itself, \"Oh dear! Oh dear! I shall be late!\" (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually TOOK A WATCH OUT OF ITS WAISTCOAT-POCKET, and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.</p><p>In another moment down went Alice after it, never once considering how in the world she was to get out again. The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down, so suddenly that Alice had not a moment to think about stopping herself before she found herself falling down a very deep well.</p>"
+msgstr "<p> Es war nichts so sehr bemerkenswert, dass, auch nicht Alice, dass es so sehr aus dem Weg zu hören, die Kaninchen sich sagen, \"! Oh dear oh dear Ich werde zu spät kommen \" (wenn sie dachte darüber später fiel es ihr, dass sie sollte an dieser gefragt haben, aber zu der Zeit schien alles ganz natürlich), aber wenn das Kaninchen tatsächlich fand eine Uhr aus der ITS Westentasche und sah sie an und dann eilte, Alice auf ihre Füße begonnen, denn es über ihren Kopf schoß, dass sie noch nie ein Kaninchen entweder mit einer Westentasche, oder eine Uhr, nehmen Sie es gesehen, und das Brennen mit Neugier, lief sie über das Feld nachdem sie, und glücklicherweise war gerade in der Zeit zu sehen, es knallen sich eine große Kaninchen-Loch unter der Hecke. </ p> in einem anderen Moment unterging Alice, nachdem sie, nicht einmal zu überlegen, wie in der Welt, die sie zu bekommen war wieder heraus. Das Kaninchen-Loch ging gerade auf wie ein Tunnel für einen Weg, und dann tauchte plötzlich nach unten, so plötzlich, dass Alice nicht einen Moment, um zu stoppen selbst, bevor sie sich Herunterfallen einen sehr tiefen Brunnen. </ P> gefunden zu haben"
+
+#: lib/templates/impact-template-builder.tpl.php:217
+msgid "<p>\"Have you guessed the riddle yet?\" the Hatter said, turning to Alice again.</p><p>\"No, I give it up,\" Alice replied: \"what's the answer?\"</p><p>\"I haven't the slightest idea,\" said the Hatter.</p><p>\"Nor I,\" said the March Hare.</p>"
+msgstr ". <p> \"? Haben Sie erraten das Rätsel noch \" der Hutmacher wandte sich an Alice wieder </ p> \"Nein, ich gebe es auf, \" Alice antwortete: \"Was ist die Antwort? \"</ p> \" Ich habe nicht die leiseste Ahnung, \"sagte der Hutmacher. </ p> \" Ich auch nicht \", sagte der March Hare. </ p>"
+
+#: lib/templates/impact-template-builder.tpl.php:241
+msgid "<p>\"Would you tell me, please, which way I ought to go from here?\"</p><p>\"That depends a good deal on where you want to get to,\" said the Cat.</p><p>\"I don't much care where--\" said Alice.</p><p>\"Then it doesn't matter which way you go,\" said the Cat.</p>"
+msgstr "<p>\"Würden Sie mir bitte sagen, welchen Weg ich von hier aus gehen? \" </ p> \"Das hängt ein gutes Geschäft auf, wo Sie wollen, um zu bekommen, \" sagte die Katze . </ p> \"Ich weiß nicht viel, wo - \", sagte Alice </ p> \"Dann ist es egal, welchen Weg Sie gehen \", sagte die Katze.. </ p>"
+
